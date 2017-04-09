@@ -1,0 +1,83 @@
+
+https://opengameart.org/forumtopic/hacking-the-rpg-maker-2000-map-format-lmu
+
+http://forum.rpg2000.4players.de/phpBB3/viewtopic.php?f=15&t=64868
+
+https://wiki.easyrpg.org/development/data-structure-reference/lcfmapunit
+
+
+"so just interpolate that for me"
+
+"klaus muss raus aus dem haus"
+
+
+
+
+
+
+# green light game #
+
+
+## characters: ##
+
+postbotenmensch
+* ein bisschen bland
+* spricht nicht
+* hat nur einen arm
+* hat augenringe
+
+horse at the hearth
+* spricht in text-to-speech low pitch barble
+* kocht
+* kochhut
+
+geist
+* ist tot und kriegt keine post mehr
+* ist nackt weil geister keine kleidung haben
+* schämt sich und verwandelt sich in lavalampe / stuhl
+* schläft oft ein
+
+postsack "jute"
+* grumpy und angepisst
+* findet alles schlimm was postbotenmensch macht
+* sagt einem die uhrzeit
+
+
+## nebenchars ##
+
+* eule
+* spacehund laika
+
+
+## setting: ##
+
+* tal / krater mit riesigen kliffwänden
+* stadt die ganz weit ausgedehnt ist, mit stadtkern / hub
+* regnet oft (schleimregen? zuckerregen? briefregen?)
+
+* friedhof mit turm
+* kettersäulen
+* ubahn die noch gebaut wird
+* tankstelle
+
+
+## features: ##
+
+* eigenes regensystem
+* eigenes hauptmenü
+* eigenes uhrzeitsystem
+* name input / lieblingsessen / symbole
+* chars laufen hintereinander her
+* tag nacht system
+* eigene schirftart
+* 15 enden
+* briefinventar
+* post fahrrad
+* custom ks?
+
+
+## intro ##
+
+* pokemon rot/blau prof eich like aber mit postsack
+* fragt nach namen
+* komische fragen (wann stehst du morgens auf)
